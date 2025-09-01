@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Phone</string>
+    <string name="phone_name"> Oppo Reno14</string>
+    <string name="phone_price">$218</string>
+    <string name="phone_description">OS Android 15, ColorOS 15
+        Chipset	Mediatek Dimensity 8350 (4 nm),
+        CPU	Octa-core (1x3.35 GHz Cortex-A715, 3x3.20 GHz Cortex-A715, 4x2.20 GHz Cortex-A510)
+        GPU	Mali G615-MC6</string>
+    <string name="memory">512GB | 12GB</string>
+    <string name="camera">50 MP, f/1.8, 23mm (wide)</string>
+    <string name="bookmark">Bookmark (Sounda Hafuza N.)</string>
+</resources>
