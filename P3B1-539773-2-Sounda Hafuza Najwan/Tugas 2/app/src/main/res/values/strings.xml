@@ -1,0 +1,22 @@
+<resources>
+    <string name="title_profile">Profil Mahasiswa</string>
+    <string name="cd_profile">Foto profil</string>
+
+
+    <string name="name">Sounda Hafuza Najwan</string>
+    <string name="nim">NIM: 24/539773/SV/24671</string>
+    <string name="origin_and_major">Daerah: Yogyakarta • Prodi: TRPL</string>
+
+
+    <string name="profile_link_text">https://www.linkedin.com/in/sounda-najwan-9712a6321</string>
+
+
+    <string name="hobbies_joined">Tidur, Makan</string>
+
+    <string name="quote">
+        "Kalau orang lain bisa, kenapa harus saya? Kalau orang lain gak bisa, apalagi saya."
+    </string>
+
+    <string name="btn_edit">Edit</string>
+    <string name="btn_share">Share</string>
+</resources>
